@@ -1,0 +1,23 @@
+
+==========
+Start Session: 16.05.2019 15:07:31
+Start Scenario
+var = 0 + 254 = 254
+========== START AFTER ==========
+Name of step: [set "254"]
+Status: Status.passed
+hook_failed: False
+duration: 0.0003 sec
+error_message: None
+========== END OF AFTER ==========
+assert: 254 = 254
+========== START AFTER ==========
+Name of step: [eq "254"]
+Status: Status.passed
+hook_failed: False
+duration: 0.0001 sec
+error_message: None
+========== END OF AFTER ==========
+Stop Scenario
+Stop Session
+==========

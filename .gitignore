@@ -1,0 +1,10 @@
+virtenviroment/
+.idea/
+myapplic/MainPackage/geckodriver.log
+reports/
+
+features/testing_scope\.feature
+
+features/steps/tutorial\.py
+
+geckodriver\.log
